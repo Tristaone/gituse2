@@ -11,4 +11,5 @@ for i in range(10):
         print("{0}这是3".format(i))
     else:
         print("else 3333333")
+        print("ok")
 
