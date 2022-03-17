@@ -10,5 +10,6 @@ for i in range(10):
     if i == 3:
         print("{0}这是3".format(i))
     else:
-        print("else 3333333")
+        print("else 3333334")
+        print("nihao")
 
