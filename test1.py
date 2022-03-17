@@ -10,5 +10,5 @@ for i in range(10):
     if i == 3:
         print("{0}这是3".format(i))
     else:
-        print("not 3")
+        print("else 3")
 
