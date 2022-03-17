@@ -4,3 +4,6 @@
 # @ProjectName: gituse2
 # @FileName: test1.py
 # @Software: PyCharm
+
+for i in range(10):
+  print(i)
