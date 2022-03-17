@@ -12,4 +12,5 @@ for i in range(10):
     else:
         print("else 3333334")
         print("nihao")
+        print("ok")
 
